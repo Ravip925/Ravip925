@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/ravipatiiil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravipatiiil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravichandrapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravichandrapatil" height="30" width="40" /></a>
-<a href="https://fb.com/ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi" height="30" width="40" /></a>
+<a href="https://fb.com/ravipatil.ravipatil.526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravipatil.ravipatil.526" height="30" width="40" /></a>
 <a href="https://instagram.com/r_a_v_i_i_i_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_v_i_i_i_i" height="30" width="40" /></a>
 </p>
 
