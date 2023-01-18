@@ -1,3 +1,5 @@
+<p align="center"><img align="center" src="https://i.ibb.co/bR0JBLg/Ravichandra-Patil.gif" /></p>
+
 <h1 align="center">Hi 👋, I'm Ravichandra Patil</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
@@ -20,7 +22,9 @@
 - 📄 Know about my experiences [click to view my Resume](https://drive.google.com/file/d/1tlF1_9XfQ2ELC84Is6IZyQ2hxjtZcaU4/view?usp=sharing)
 
 - ⚡ Fun fact **I am a 🎮 GaMeR 🎮.**
+- 
 <p align="right"><img align="center" src="https://sithcomputers.com/wp-content/uploads/2021/05/Scratch.gif" alt="ravip925" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ravipatiiil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravipatiiil" height="30" width="40" /></a>
