@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://i.ibb.co/bR0JBLg/Ravichandra-Patil.gif" /></p>
+![logo](https://github.com/Ravip925/Ravip925/blob/main/Ravichandra%20Patil.gif)
 
 <h1 align="center">Hi 👋, I'm Ravichandra Patil</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/ravipatiiil" target="blank"><img src="https://img.shields.io/twitter/follow/ravipatiiil?logo=twitter&style=for-the-badge" alt="ravipatiiil" /></a> </p>
 
-- 🔭 I’m currently working on [Hotstar Clone](https://hotstar-clone-ravi.netlify.app/)
+<img align="right" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/05/Scratch.gif" alt="ravip925" />
 
-- 🌱 I’m currently learning **MERN-Stack Development**
+- 🔭 I’m currently working on [Hotstar Clone.](https://hotstar-clone-ravi.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://react-portfolio-ravi.netlify.app/)
+- 🌱 I’m currently learning **MERN-Stack Development.**
 
-- 💬 Ask me about **Web dev, React, NodeJS, MERN-Stack, Adobe Photoshop**
+- 👨‍💻 All of my projects are available at [My Portfolio.](https://react-portfolio-ravi.netlify.app/)
 
-- 📫 How to reach me **ravichandrapatil.email@gmail.com or patilravi400@gmail.com**
+- 💬 Ask me about **Web dev, React, NodeJS, MERN-Stack, Adobe Photoshop.**
 
-- 📄 Know about my experiences [click to view my Resume](https://drive.google.com/file/d/1tlF1_9XfQ2ELC84Is6IZyQ2hxjtZcaU4/view?usp=sharing)
+- 📫 How to reach me **ravichandrapatil.email@gmail.com or patilravi400@gmail.com.**
+
+- 📄 Know about my experiences [click to view my Resume.](https://drive.google.com/file/d/1tlF1_9XfQ2ELC84Is6IZyQ2hxjtZcaU4/view?usp=sharing)
 
 - ⚡ Fun fact **I am a 🎮 GaMeR 🎮.**
-- 
-<p align="right"><img align="center" src="https://sithcomputers.com/wp-content/uploads/2021/05/Scratch.gif" alt="ravip925" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
