@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-ravi.netlify.app/](https://react-portfolio-ravi.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://react-portfolio-ravi.netlify.app/)
 
 - 💬 Ask me about **Web dev, React, NodeJS, MERN-Stack, Adobe Photoshop**
 
 - 📫 How to reach me **ravichandrapatil.email@gmail.com or patilravi400@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tlF1_9XfQ2ELC84Is6IZyQ2hxjtZcaU4/view?usp=sharing](https://drive.google.com/file/d/1tlF1_9XfQ2ELC84Is6IZyQ2hxjtZcaU4/view?usp=sharing)
+- 📄 Know about my experiences [click to view my Resume](https://drive.google.com/file/d/1tlF1_9XfQ2ELC84Is6IZyQ2hxjtZcaU4/view?usp=sharing)
 
 - ⚡ Fun fact **I am a 🎮 GaMeR 🎮.**
 
