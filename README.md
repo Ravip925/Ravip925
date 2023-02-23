@@ -11,8 +11,6 @@
 
 <img align="right" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/05/Scratch.gif" alt="ravip925" />
 
-- 🔭 I’m currently working on [Hotstar Clone.](https://hotstar-clone-ravi.netlify.app/)
-
 - 🌱 I’m currently learning **MERN-Stack Development.**
 
 - 👨‍💻 All of my projects are available at [My Portfolio.](https://react-portfolio-ravi.netlify.app/)
