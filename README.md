@@ -1,7 +1,7 @@
-![logo](https://github.com/Ravip925/Ravip925/blob/main/Ravichandra%20Patil.gif)
+![logo](https://github.com/Ravip925/Ravip925/blob/main/Ravichandra%20Patil%20(1).gif)
 
-<h1 align="center">Hi 👋, I'm Ravichandra Patil</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h1 align="center">Hi, I'm Ravichandra Patil</h1>
+<h3 align="center">A MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravip925&label=Profile%20views&color=0e75b6&style=flat" alt="ravip925" /> </p>
 
