@@ -1,4 +1,4 @@
-![logo](https://github.com/Ravip925/Ravip925/blob/main/Ravichandra%20Patil%20(1).gif)
+![logo](https://github.com/Ravip925/Ravip925/blob/main/Ravichandra%20Patil%20(2).gif)
 
 <h1 align="center">Hi, I'm Ravichandra Patil</h1>
 <h3 align="center">A MERN Stack Developer</h3>
